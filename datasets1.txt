@@ -1,2 +1,7 @@
-/Mu/Run2010A-Apr21ReReco-v1/AOD
-/Mu/Run2010B-Apr21ReReco-v1/AOD
+/DoubleMu/Run2011A-12Oct2013-v1/AOD
+/DoubleMu/Run2011B-12Oct2013-v1/AOD
+/MuOnia/Run2011A-12Oct2013-v1/AOD
+/MuOnia/Run2011B-12Oct2013-v1/AOD
+/DoubleMuParked/Run2012B-22Jan2013-v1/AOD
+/DoubleMuParked/Run2012C-22Jan2013-v1/AOD
+/DYJetsToLL_M-50_7TeV-madgraph-pythia6-tauola/Summer11LegDR-PU_S13_START53_LV6-v1/AODSIM
